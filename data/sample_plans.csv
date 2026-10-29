@@ -1,0 +1,14 @@
+provider,country,data_gb,validity_days,price_usd,notes
+Airalo,France,1,7,4.5,LTE
+Airalo,France,10,30,19,LTE
+Nomad,France,5,30,12,
+Saily,France,3,30,8.99,4G/LTE
+Airalo,USA,1,7,4.5,LTE
+Nomad,USA,10,30,18,5G where available
+Saily,USA,5,30,12.99,
+Ubigi,Japan,3,30,11,
+Airalo,Japan,10,30,21,LTE
+Nomad,Japan,5,30,13.5,
+GigSky,Italy,2,15,9,LTE
+Airalo,Global,1,7,9,Covers 100+ countries
+Nomad,Global,10,30,39,Covers 100+ countries
